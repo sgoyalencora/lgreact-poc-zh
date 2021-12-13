@@ -89,5 +89,27 @@
             "companyId": 1,
             "id": 5
           }
-        ]
+        ],
+    "parentcategory": [
+        {
+            "id":"1",
+            "parentCategoryName":"TV/Video",
+            "parentCategoryDescription":"All the Tv's will be under this section"
+        },
+        {
+            "id":"2",
+            "parentCategoryName":"Audio",
+            "parentCategoryDescription":"All the Audio will be under this section"
+        },
+        {
+            "id":"3",
+            "parentCategoryName":"Kitchen",
+            "parentCategoryDescription":"All the Kitchen will be under this section"
+        },
+        {
+            "id":"4",
+            "parentCategoryName":"Laundry",
+            "parentCategoryDescription":"All the Laundry will be under this section"
+        }
+    ],
 }
