@@ -90,7 +90,7 @@
             "id": 5
           }
         ],
-    "parentcategory": [
+    "parentcategories": [
         {
             "id":"1",
             "parentCategoryName":"TV/Video",
