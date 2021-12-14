@@ -4,7 +4,7 @@
     "ar-dz",
     "zh"
   ],
-  "en-us": {
+  "en-us": [
     "parentcategory": [
       {
         "id": 1,
@@ -79,7 +79,7 @@
         ]
       }
     ]
-  },
+  ],
   "ar-dz": {
     "parentcategory": [
       {
