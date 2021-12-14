@@ -1,88 +1,171 @@
 {
-  "parentcategory": [
-    {
-      "id": 1,
-      "parentCategoryName": "TV/Video",
-      "parentCategoryDescription": "All the Tv's will be under this section"
-    },
-    {
-      "id": 2,
-      "parentCategoryName": "Audio",
-      "parentCategoryDescription": "All the Audio will be under this section"
-    },
-    {
-      "id": 3,
-      "parentCategoryName": "Kitchen",
-      "parentCategoryDescription": "All the Kitchen will be under this section"
-    },
-    {
-      "id": 4,
-      "parentCategoryName": "Laundry",
-      "parentCategoryDescription": "All the Laundry will be under this section"
-    }
+  "locale": [
+    "en-us",
+    "ar-dz",
+    "zh"
   ],
-  "categorys": [
-    {
-      "id": 1,
-      "categoryName": "TV/Video",
-      "categoryDescription": "All the TV/Video will be under this section",
-      "parentCategoryId": 1
-    },
-    {
-      "id": 4,
-      "categoryName": "Deals and promotion",
-      "categoryDescription": "All the Laundry will be under this section",
-      "parentCategoryId": 1
-    },
-    {
-      "id": 4,
-      "categoryName": "TVs",
-      "categoryDescription": "All the Tv's data will be available",
-      "parentCategoryId": 1
-    },
-    {
-      "id": 4,
-      "categoryName": "Video",
-      "categoryDescription": "All the Laundry will be under this section",
-      "parentCategoryId": 1
-    }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "title": "LG A1 55 inch Class 4K Smart OLED TV w/ ThinQ AI® (54.6'' Diag)",
-      "price": "$1,099.99",
-      "description": "G OLED TV is a joy to behold. Self-lit pixels have evolved to allow even more spectacular picture quality and a whole host of design possibilities, while the latest cutting-edge technologies help deliver unprecedented levels of wonder. This is everything you love about TV — elevated in every way.",
-      "keyFeatures": [
-        "Self-lighting OLED: Perfect Black, Intense Color, Infinite Contrast",
-        "α7 Gen4 AI Processor w/ AI Picture & Sound",
-        "Dolby Vision IQ & Dolby Atmos"
-      ],
-      "categoryId": 4,
-      "productSKU": "lg-oled55a1pua-oled-4k-tv",
-      "bannerImage": "https://www.lg.com/us/images/TV/features/OLED2021/TV-OLED-A1-10-Cinema-Desktop-2.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
+  "en-us": {
+    "parentcategory": [
+      {
+        "id": 1,
+        "parentCategoryLabel": "TV/Video",
+        "parentCategoryValue": "tv-audio-video",
+        "parentCategoryDescription": "All the Tv's will be under this section"
+      },
+      {
+        "id": 2,
+        "parentCategoryLabel": "Audio",
+        "parentCategoryValue": "home-audio",
+        "parentCategoryDescription": "All the Audio will be under this section"
       }
-    },
-    {
-      "id": 1,
-      "title": "LG G1 65 inch Class with Gallery Design 4K Smart OLED TV w/AI ThinQ® (64.5'' Diag)",
-      "price": "$2,399.99",
-      "description": "G OLED TV is a joy to behold. Self-lit pixels have evolved to allow even more spectacular picture quality and a whole host of design possibilities, while the latest cutting-edge technologies help deliver unprecedented levels of wonder. This is everything you love about TV — elevated in every way.",
-      "keyFeatures": [
-        "Gallery Design: Designed to put the spotlight on your content and complement your home's interior ",
-        "α7 Gen4 AI Processor w/ AI Picture & Sound",
-        "Dolby Vision IQ & Dolby Atmos"
-      ],
-      "categoryId": 4,
-      "productSKU": "lg-oled55a1pua-oled-4k-tv",
-      "bannerImage": "https://www.lg.com/us/images/tvs/md07521474/gallery/DV-01.jpg",
-      "rating": {
-        "rate": 4.4,
-        "count": 120
+    ],
+    "category": [
+      {
+        "id": 1,
+        "categoryLabel": "Tvs",
+        "categoryValue": "tvs",
+        "categoryDescription": "All the TV/Video will be under this section",
+        "parentCategoryId": 1
+      },
+      {
+        "id": 2,
+        "categoryLabel": "Deals and promotion",
+        "categoryValue": "tv-audio-video-deals",
+        "categoryDescription": "All the Laundry will be under this section",
+        "parentCategoryId": 1
       }
-    }
-  ]
+    ],
+    "products": [
+      {
+        "id": 1,
+        "productLabel": "NEW",
+        "title": "LG A1 55 inch Class 4K Smart OLED TV ThinQ AI® (54.6'' Diag)",
+        "price": {
+          "basePrice": "$1,399.99",
+          "discount": "$300.00 OFF",
+          "finalPrice": "$1,099.99"
+        },
+        "description": "G OLED TV is a joy to behold. Self-lit pixels have evolved to allow even more spectacular picture quality and a whole host of design possibilities, while the latest cutting-edge technologies help deliver unprecedented levels of wonder. This is everything you love about TV — elevated in every way.",
+        "keyFeatures": [
+          "Self-lighting OLED: Perfect Black, Intense Color, Infinite Contrast",
+          "α7 Gen4 AI Processor w/ AI Picture & Sound",
+          "Dolby Vision IQ & Dolby Atmos"
+        ],
+        "sizes": [
+          {
+            "price": "$4499.00",
+            "label": 77
+          },
+          {
+            "price": "$2999.00",
+            "label": 65
+          },
+          {
+            "price": "$2199.00",
+            "label": 55
+          }
+        ],
+        "categoryId": 1,
+        "productSKU": "lg-oled55a1pua-oled-4k-tv",
+        "bannerImage": "https://www.lg.com/us/images/TV/features/OLED2021/TV-OLED-A1-10-Cinema-Desktop-2.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        },
+        "topReview": "It’s hard to describe, but OLED just pops.",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      }
+    ]
+  },
+  "ar-dz": {
+    "parentcategory": [
+      {
+        "id": 1,
+        "parentCategoryName": "TV/Video",
+        "parentCategoryDescription": "All the Tv's will be under this section"
+      },
+      {
+        "id": 2,
+        "parentCategoryName": "Audio",
+        "parentCategoryDescription": "All the Audio will be under this section"
+      },
+      {
+        "id": 3,
+        "parentCategoryName": "Kitchen",
+        "parentCategoryDescription": "All the Kitchen will be under this section"
+      },
+      {
+        "id": 4,
+        "parentCategoryName": "Laundry",
+        "parentCategoryDescription": "All the Laundry will be under this section"
+      }
+    ],
+    "categorys": [
+      {
+        "id": 1,
+        "categoryName": "TV/Video",
+        "categoryDescription": "All the TV/Video will be under this section",
+        "parentCategoryId": 1
+      },
+      {
+        "id": 4,
+        "categoryName": "Deals and promotion",
+        "categoryDescription": "All the Laundry will be under this section",
+        "parentCategoryId": 1
+      },
+      {
+        "id": 4,
+        "categoryName": "TVs",
+        "categoryDescription": "All the Tv's data will be available",
+        "parentCategoryId": 1
+      },
+      {
+        "id": 4,
+        "categoryName": "Video",
+        "categoryDescription": "All the Laundry will be under this section",
+        "parentCategoryId": 1
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "LG A1 55 inch Class 4K Smart OLED TV w/ ThinQ AI® (54.6'' Diag)",
+        "price": "$1,099.99",
+        "description": "G OLED TV is a joy to behold. Self-lit pixels have evolved to allow even more spectacular picture quality and a whole host of design possibilities, while the latest cutting-edge technologies help deliver unprecedented levels of wonder. This is everything you love about TV — elevated in every way.",
+        "keyFeatures": [
+          "Self-lighting OLED: Perfect Black, Intense Color, Infinite Contrast",
+          "α7 Gen4 AI Processor w/ AI Picture & Sound",
+          "Dolby Vision IQ & Dolby Atmos"
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-oled55a1pua-oled-4k-tv",
+        "bannerImage": "https://www.lg.com/us/images/TV/features/OLED2021/TV-OLED-A1-10-Cinema-Desktop-2.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 1,
+        "title": "LG G1 65 inch Class with Gallery Design 4K Smart OLED TV w/AI ThinQ® (64.5'' Diag)",
+        "price": "$2,399.99",
+        "description": "G OLED TV is a joy to behold. Self-lit pixels have evolved to allow even more spectacular picture quality and a whole host of design possibilities, while the latest cutting-edge technologies help deliver unprecedented levels of wonder. This is everything you love about TV — elevated in every way.",
+        "keyFeatures": [
+          "Gallery Design: Designed to put the spotlight on your content and complement your home's interior ",
+          "α7 Gen4 AI Processor w/ AI Picture & Sound",
+          "Dolby Vision IQ & Dolby Atmos"
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-oled55a1pua-oled-4k-tv",
+        "bannerImage": "https://www.lg.com/us/images/tvs/md07521474/gallery/DV-01.jpg",
+        "rating": {
+          "rate": 4.4,
+          "count": 120
+        }
+      }
+    ]
+  }
 }
