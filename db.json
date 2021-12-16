@@ -32,18 +32,18 @@
     "products": [
       {
         "id": 1,
-        "productLabel": "NEW",
-        "title": "LG A1 55 inch Class 4K Smart OLED TV ThinQ AI® (54.6'' Diag)",
+        "productLabel": "新的",
+        "title": "LG A1 55 英寸 4K 級智能 OLED 電視 ThinQ AI® (54.6'' Diag)",
         "price": {
           "basePrice": "$1,399.99",
           "discount": "$300.00",
           "finalPrice": "$1,099.99"
         },
-        "description": "G OLED TV is a joy to behold. Self-lit pixels have evolved to allow even more spectacular picture quality and a whole host of design possibilities, while the latest cutting-edge technologies help deliver unprecedented levels of wonder. This is everything you love about TV — elevated in every way.",
+        "description": "G OLED 電視令人賞心悅目。自發光像素已經發展到可以提供更壯觀的圖像質量和大量的設計可能性，而最新的尖端技術有助於提供前所未有的奇蹟水平。這就是您喜歡電視的一切——在各個方面都得到了提升",
         "keyFeatures": [
-          "Self-lighting OLED: Perfect Black, Intense Color, Infinite Contrast",
-          "α7 Gen4 AI Processor w/ AI Picture & Sound",
-          "Dolby Vision IQ & Dolby Atmos"
+          "自發光 OLED：完美的黑色、濃郁的色彩、無限的對比度",
+          "α7 Gen4 AI 處理器，帶 AI 圖像和聲音",
+          "杜比視界 IQ 和杜比全景聲"
         ],
         "sizes": [
           {
@@ -66,7 +66,7 @@
           "rate": 3.9,
           "count": 120
         },
-        "topReview": "It’s hard to describe, but OLED just pops.",
+        "topReview": "很難描述，但 OLED 就是流行",
         "offers": [
           "SHIPPING",
           "WARRANTY"
@@ -74,17 +74,17 @@
       },
       {
         "id": 2,
-        "productLabel": "BLACK FRIDAY",
-        "title": "LG NanoCell 99 Series 2021 75 inch 8K Smart UHD TV w/ AI ThinQ® (74.5'' Diag)",
+        "productLabel": "黑色星期五",
+        "title": "LG NanoCell 99 系列 2021 75 英寸 8K 智能超高清電視帶 AI ThinQ® (74.5'' Diag)",
         "price": {
           "basePrice": "$3,299.99",
           "discount": "$200.00",
           "finalPrice": "$3,499.99"
         },
-        "description": "Bring your favorite shows to life with bright, vivid NanoCell 8K. Full Array Dimming Pro brings you more brilliant colors, deep blacks and revolutionary backlight control. And with Nano Color Pro, you'll see natural, lifelike picture enhanced by a billion rich colors.",
+        "description": "使用明亮、生動的 NanoCell 8K 將您喜愛的節目帶入生活。 Full Array Dimming Pro 為您帶來更絢麗的色彩、深邃的黑色和革命性的背光控制。使用 Nano Color Pro，您將看到由十億種豐富色彩增強的自然、逼真的畫面。",
         "keyFeatures": [
-          "Real 8K NanoCell Display w/ Full Array Dimming Pro",
-          "α9 Gen4 AI Processor 8K w/ AI Picture Pro & Sound Pro"
+          "真正的 8K NanoCell 顯示器，帶全陣列調光 Pro",
+          "α9 Gen4 AI 處理器 8K 帶 AI Picture Pro 和 Sound Pro"
         ],
         "sizes": [
           {
@@ -107,7 +107,7 @@
           "rate": 3.4,
           "count": 86
         },
-        "topReview": "It’s hard to describe, but OLED just pops.",
+        "topReview": "很難描述，但 OLED 就是流行。",
         "offers": [
           "SHIPPING",
           "WARRANTY"
@@ -115,17 +115,17 @@
       },
       {
         "id": 3,
-        "productLabel": "CHRISMASH BONUS",
-        "title": "LG NanoCell 90 Series 2020 86 inch Class 4K Smart UHD NanoCell TV w/ AI ThinQ® (85.5'' Diag)",
+        "productLabel": "聖誕獎金",
+        "title": "LG NanoCell 90 系列 2020 86 英寸 4K 級智能超高清 NanoCell 電視，帶 AI ThinQ® (85.5'' Diag)",
         "price": {
           "basePrice": "$3,299.99",
           "discount": "$800.00",
           "finalPrice": "$2,499.99"
         },
-        "description": "Bring your favorite shows to life with bright, vivid NanoCell 8K. Full Array Dimming Pro brings you more brilliant colors, deep blacks and revolutionary backlight control. And with Nano Color Pro, you'll see natural, lifelike picture enhanced by a billion rich colors.",
+        "description": "使用明亮、生動的 NanoCell 8K 將您喜愛的節目帶入生活。 Full Array Dimming Pro 為您帶來更絢麗的色彩、深邃的黑色和革命性的背光控制。使用 Nano Color Pro，您將看到由十億種豐富色彩增強的自然、逼真的畫面。",
         "keyFeatures": [
-          "Real 4K NanoCell Display: Nano Color, Nano Accuracy, Nano Bezel, Full Array Dimming",
-          "α9 Gen4 AI Processor 8K w/ AI Picture Pro & Sound Pro"
+          "真正的 4K NanoCell 顯示器：納米顏色、納米精度、納米邊框、全陣列調光",
+          "α9 Gen4 AI 處理器 8K 帶 AI Picture Pro 和 Sound Pro"
         ],
         "sizes": [
           {
@@ -148,7 +148,7 @@
           "rate": 3,
           "count": 92
         },
-        "topReview": "It’s hard to describe, but OLED just pops.",
+        "topReview": "很難描述，但 OLED 就是流行。",
         "offers": [
           "SHIPPING",
           "WARRANTY"
