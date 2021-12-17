@@ -238,5 +238,34 @@
           "SHIPPING"
         ]
       },
+      {
+        "id": 6,
+        "productLabel": "CHRISMASH BONUS",
+        "title": "LG CordZero™ A9 Kompressor Stick 真空吸尘器 - 铁灰色",
+        "price": {
+          "basePrice": "$3,299.99",
+          "discount": "$800.00",
+          "finalPrice": "$2,499.99"
+        },
+        "description": "Kompressor™ 控制杆可将垃圾箱中的污垢、灰尘和宠物毛发压缩到两倍以上* 的垃圾箱容量。",
+        "keyFeatures": [
+          "Kompressor® 技术",
+          "2 个快拆电池和便携式充电座"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-a927kgms-stick-vacuum",
+        "bannerImage": "https://www.lg.com/us/images/vacuum-cleaners/md07505995/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "很难描述",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      }
     ]
 }
