@@ -266,6 +266,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 7,
+        "productLabel": "SPECIAL OFFER",
+        "title": "LG 签名 15 立方。英尺智能 wi-fi 启用 InstaView® 酒窖冰箱",
+        "price": {
+          "basePrice": "$6,999.00",
+          "discount": "$0",
+          "finalPrice": "$6,999.00"
+        },
+        "description": "三个最佳温度区为保存和带出红、白和起泡酒的独特风味提供了理想的条件。",
+        "keyFeatures": [
+          "LG 签名",
+          "65 酒瓶容量"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-uretc1408n-wine-cellar-refrigerator-lgsignature",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md08000177/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "很难描述",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
