@@ -295,6 +295,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 8,
+        "productLabel": "SPECIAL OFFER",
+        "title": "28 立方英尺 Smart InstaView® Door-in-Door® 双冷冻冰箱，带工艺冰™",
+        "price": {
+          "basePrice": "$3,799.00",
+          "discount": "$0",
+          "finalPrice": "$3,799.00"
+        },
+        "description": "储备和储存您需要的一切。这款 LG 法式门冰箱拥有 28 立方英尺的巨大空间，为您提供充足的空间存放您家人最喜爱的所有食物，并让它们井井有条且触手可及。",
+        "keyFeatures": [
+          "28立方。英尺大容量",
+          "双冷冻抽屉"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-lrmvs2806s-instaview-refrigerator",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md08000177/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "很难描述",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
