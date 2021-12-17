@@ -210,5 +210,33 @@
           "SHIPPING"
         ]
       },
+      {
+        "id": 5,
+        "productLabel": "BLACK FRIDAY",
+        "title": "LG SPK8-S 2.0 声道条形音箱无线后置扬声器套件",
+        "price": {
+          "basePrice": "$179.99",
+          "discount": "$50.00",
+          "finalPrice": "$129.99"
+        },
+        "description": "将 LG 后置扬声器套件与 SN10YG、SN9YG、SN8YG、SN7Y、SN7CY、SN6Y、SN5Y、SLM6Y、GX、SL10YG、SL9YG、SL8YG、SL7Y、SL6Y、SL5Y、SKY10SKY、SKY10SKY、SKY14Y6S用于真正家庭影院环绕声的 SK5Y 条形音箱。",
+        "keyFeatures": [
+          "2.0ch/140W",
+          "环绕声扩展"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-SPK8-S-wireless-surround-kit",
+        "bannerImage": "https://www.lg.com/us/images/home-audio/md05936736/SPK8-350.jpg",
+        "rating": {
+          "rate": 3.4,
+          "count": 86
+        },
+        "topReview": "很难描述",
+        "offers": [
+          "SHIPPING"
+        ]
+      },
     ]
 }
