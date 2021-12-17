@@ -353,6 +353,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 11,
+        "productLabel": "SPECIAL OFFER",
+        "title": "4.5 立方。 ft. 超大容量智能 wi-fi 启用前置洗衣机，具有 TurboWash™ 360° 和内置智能",
+        "price": {
+          "basePrice": " $1,099.00",
+          "discount": "$100.00",
+          "finalPrice": "$949.00"
+        },
+        "description": "5 个强大的喷嘴从多个角度喷洒衣物，可在 30 分钟内彻底清洁*。",
+        "keyFeatures": [
+          "4.5 立方。英尺超大容量",
+          "TurboWash™ 360° 技术"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-wm4000hwa-front-load-washer",
+        "bannerImage": "https://www.lg.com/us/images/washers/md07513842/3502.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "很难描述",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
