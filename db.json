@@ -167,6 +167,48 @@
           "SHIPPING",
           "WARRANTY"
         ]
-      }
+      },
+          
+      {
+        "id": 4,
+        "productLabel": "DEAL OF TEH DAY",
+        "title": "LG gram 17 英寸超轻型笔记本电脑，配备第 11 代英特尔® 酷睿™ 处理器和英特尔® Iris® Xe 显卡",
+        "price": {
+          "basePrice": "$1,399.99",
+          "discount": "$300.00",
+          "finalPrice": "$1,099.99"
+        },
+        "description": "LG gram 17 英寸超轻型笔记本电脑，配备第 11 代英特尔® 酷睿™ 处理器和英特尔® Iris® Xe 显卡",
+        "keyFeatures": [
+          "17.0” WQXGA (2560 x 1600) IPS 液晶屏",
+          "Windows 10 家庭版（64 位）",
+          "16GB LPDDR4X 4266MHz 内存"
+        ],
+        "sizes": [
+          {
+            "price": "$4499.00",
+            "label": 12
+          },
+          {
+            "price": "$2999.00",
+            "label": 13
+          },
+          {
+            "price": "$2199.00",
+            "label": 14
+          }
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-17z95n-g.aas6u1-ultra-slim-laptop",
+        "bannerImage": "https://www.lg.com/us/images/laptops/md08001063/3501.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        },
+        "topReview": "很难描述",
+        "offers": [
+          "SHIPPING"
+        ]
+      },
     ]
 }
