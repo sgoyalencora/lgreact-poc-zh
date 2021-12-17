@@ -11,6 +11,20 @@
         "parentCategoryLabel": "Audio",
         "parentCategoryValue": "home-audio",
         "parentCategoryDescription": "All the Audio will be under this section"
+      },
+      {
+        "id": 3,
+        "categoryLabel": "Kitchen",
+        "categoryValue": "kitchen",
+        "categoryDescription": "All the Kitchen appliances will be under this section",
+        "parentCategoryId": 1
+      },
+      {
+        "id": 4,
+        "categoryLabel": "Laundry",
+        "categoryValue": "laundry",
+        "categoryDescription": "All the laundry appliances will be under this section",
+        "parentCategoryId": 1
       }
     ],
     "category": [
