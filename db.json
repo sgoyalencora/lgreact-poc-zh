@@ -382,6 +382,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 12,
+        "productLabel": "SPECIAL OFFER",
+        "title": "5.0 立方英尺采用 TurboWash3D™ 技术的智能 wi-fi 启用顶部负载垫圈",
+        "price": {
+          "basePrice": " $1,099.00",
+          "discount": "$100.00",
+          "finalPrice": "$949.00"
+        },
+        "description": "消费者报告对 LG 顶装 HE 洗衣机进行了评估",
+        "keyFeatures": [
+          "5.0 立方英尺超大容量",
+          "TurboWash3D™ 技术"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-WT7300CV-top-load-washer",
+        "bannerImage": "https://www.lg.com/us/images/washers/md06076536/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "很难描述",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
