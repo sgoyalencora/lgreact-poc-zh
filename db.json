@@ -324,6 +324,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 10,
+        "productLabel": "SPECIAL OFFER",
+        "title": "单机前置式 LG WashTower™ 带中央控制™ 4.5 立方英尺。英尺垫圈和 7.4 立方英尺。英尺电动烘干机",
+        "price": {
+          "basePrice": " $2,499.00",
+          "discount": "$600.00",
+          "finalPrice": "$1,899.00"
+        },
+        "description": "忘记分类或选择周期——内置传感器使用人工智能技术检测织物质地和负载大小，然后自定义洗涤动作和干燥温度等，以实现高级织物护理。",
+        "keyFeatures": [
+          "超大容量 4.5 立方英尺垫圈和 7.4 立方英尺。烘干机",
+          "单单元 WashTower™ 设计"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-wkex200hba-washtower",
+        "bannerImage": "https://www.lg.com/us/images/washer-dryer-combos/md07516046/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "很难描述",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
